@@ -47,12 +47,12 @@ https://blog.csdn.net/QQ727338622/article/details/136637921
 
 3. 執行命令
 打開cmd命令列，進入到Typora的安裝目錄，執行2個命令列
-
-# 自動組態相關檔案
+```
+# 自動組態相關檔案`
 .\node_inject.exe
 # 序列號生成
 .\license-gen.exe
-
+```
 如圖所示，他就會給你一個序列號，然後你輸入進去就行
 
 
