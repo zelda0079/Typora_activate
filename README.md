@@ -1,3 +1,4 @@
+# 方法1
 https://blog.csdn.net/m0_58416529/article/details/136098186  
 找到Typora安裝目錄，依次找到這個檔案
 ```
@@ -31,3 +32,7 @@ resources\locales\zh-Hans.lproj\Panel.json
 
 取代為【"UNREGISTERED":" ",】
 ```
+==========================================================
+
+# 方法2
+https://blog.csdn.net/QQ727338622/article/details/136637921
