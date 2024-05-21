@@ -36,3 +36,26 @@ resources\locales\zh-Hans.lproj\Panel.json
 
 # 方法2
 https://blog.csdn.net/QQ727338622/article/details/136637921
+
+1. 下載補丁
+然後去下載2個檔案，點這裡下載，為了防止以後更新有問題，給1.8.10版本的包也扔進去了，可以不用下載。
+
+
+2. 移入目錄
+將這license-gen.exe和node_inject.exe這2個檔案放到 typora的運行目錄，就是安裝目錄
+
+
+3. 執行命令
+打開cmd命令列，進入到Typora的安裝目錄，執行2個命令列
+
+# 自動組態相關檔案
+.\node_inject.exe
+# 序列號生成
+.\license-gen.exe
+
+如圖所示，他就會給你一個序列號，然後你輸入進去就行
+
+
+4. 輸入序列號
+將上面的序列號輸入進去，信箱的話隨便填寫都可以
+
