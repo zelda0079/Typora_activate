@@ -37,8 +37,8 @@ resources\locales\zh-Hans.lproj\Panel.json
 # 方法2
 https://github.com/743859910/Typora_Unlocker
 
-1. 下載補丁
-然後去下載2個檔案，點這裡下載，為了防止以後更新有問題，給1.8.10版本的包也扔進去了，可以不用下載。
+1. 下載補丁  
+下載2個檔案，解壓。
 
 
 2. 移入目錄
