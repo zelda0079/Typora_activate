@@ -35,7 +35,8 @@ resources\locales\zh-Hans.lproj\Panel.json
 ==========================================================
 
 # 方法2
-https://github.com/743859910/Typora_Unlocker
+~~https://github.com/743859910/Typora_Unlocker~~  
+https://github.com/L1ne-cd/Typora_Unlocker
 
 1. 下載補丁  
 下載2個檔案，解壓。
